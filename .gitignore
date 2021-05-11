@@ -1,0 +1,17 @@
+
+
+
+.DS_store
+
+node_modules
+
+*.csv
+
+*.xlsx
+
+*.pdf
+
+*.txt
+
+/__pycache__
+
